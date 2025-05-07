@@ -12,7 +12,7 @@
 
 - 💻 Soy desarrollador full-stack autodidacta  
 - 🔐 En mis ratos libres juego videojuegos  
-- 📚 Actualmente aprendiendo desarrollo web por mi cuenta  
+- 📚 Actualmente estoy cursando la carrera de Ing de Sistemas  
 - 🌐 Página personal:https://psv-portafolio.netlify.app/  
 - 🚀 Buscando oportunidades de prácticas o trabajo  
 - 📄 Este es mi [CV](https://drive.google.com/file/d/1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV/view?usp=sharing)
