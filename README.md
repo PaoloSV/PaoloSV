@@ -8,7 +8,7 @@
 
 ## 📌 Sobre mí
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV" width="250" alt="Avatar de Paolo">
+<img align="right" src="https://drive.google.com/uc?export=view&id=1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV" width="150" alt="Avatar de Paolo">
 
 - 💻 Soy desarrollador full-stack autodidacta  
 - 🔐 En mis ratos libres juego videojuegos  
