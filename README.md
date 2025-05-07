@@ -25,7 +25,7 @@
 
 <br><br>
 
-<img src="https://drive.google.com/file/d/1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV/view&id=1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV"><br><br>
+<img src="https://drive.google.com/uc?export=view&id=1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV" alt="Imagen desde Google Drive" width="300"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
