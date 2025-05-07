@@ -10,10 +10,10 @@
 
 <img align="right" src="https://drive.google.com/uc?export=view&id=1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV" width="250" alt="Avatar de Paolo">
 
-- 💻 Soy desarrollador frontend autodidacta  
-- 🔐 En mis ratos libres practico CTFs  
+- 💻 Soy desarrollador full-stack autodidacta  
+- 🔐 En mis ratos libres juego videojuegos  
 - 📚 Actualmente aprendiendo desarrollo web por mi cuenta  
-- 🌐 Página personal en construcción  
+- 🌐 Página personal:https://psv-portafolio.netlify.app/  
 - 🚀 Buscando oportunidades de prácticas o trabajo  
 - 📄 Este es mi [CV](https://drive.google.com/file/d/1Yt0O1-Hk-WQCknN0NtDIHrKR9-LTuhoV/view?usp=sharing)
 
@@ -53,9 +53,8 @@
 
 ## 🤝 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paolo%20Santos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paolo-santos)
-[![Twitter](https://img.shields.io/badge/Twitter-@PaoloSV-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PaoloSV)
-[![Correo](https://img.shields.io/badge/Gmail-paolo.sv.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolo.sv.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paolo%20Santos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Paolo-Santos-Velasquez)
+[![Correo](https://img.shields.io/badge/Gmail-paolo.sv.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolosantosvela@gmail.com)
 
 ---
 
