@@ -53,7 +53,7 @@
 
 ## 🤝 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paolo%20Santos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Paolo-Santos-Velasquez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paolo%20Santos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-santos-velasquez-9184462ab/)
 [![Correo](https://img.shields.io/badge/Gmail-paolo.sv.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolosantosvela@gmail.com)
 
 ---
